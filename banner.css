@@ -1,0 +1,18 @@
+.banner {
+    background-image: url(https://mail.google.com/mail/u/0?ui=2&ik=11b8a6d7ca&attid=0.1&permmsgid=msg-a:r3539860087598377782&th=18b6dc7ceb98e1fe&view=att&disp=safe&realattid=f_lo7o1ysa0);
+    color: rgb(9, 9, 9);
+    padding: 150px 0px;
+    background-size: cover;
+    background-position: center
+}
+
+.banner h1 {
+    font-size: 50px;
+}
+.banner h2 {
+    font-size: 30px;
+    font-weight: lighter;
+    opacity: 0.8;
+    margin-bottom: 40px;
+
+}
